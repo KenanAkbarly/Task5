@@ -1,0 +1,35 @@
+h1{
+    
+  text-align: center; 
+  margin-top: 40px; 
+  margin-bottom: 50px;
+  font-weight: 30;
+  font-size: 37px;
+}
+.p1{
+    color: rgb(56, 56, 188);
+    margin: 30px;
+    padding: 5px;
+}
+.p2{
+    background-color: rgba(204, 60, 60, 0.32);
+    margin:30px;
+    margin-bottom: 50px;
+    padding: 12px;
+}
+.em{
+    color: white;
+}
+.flower{
+   
+    margin:30px;
+    margin-bottom: 50px;}
+
+.nature{
+    margin:30px;
+    width: 39%;
+    border: 2px solid rgb(54, 181, 97);
+    padding: 10px;
+    padding-right: 15px;
+    
+}
